@@ -12,3 +12,5 @@ Flask-MongoEngine
     • Song
     • Podcast
     • Audiobook
+
+The create, read, upload, and delete endpoints are generic and usable for all audio file types,
